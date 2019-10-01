@@ -1,0 +1,147 @@
+Pasien dengan kadar KOMPONEN_LAB yang STATUS_LAB ANJURAN mengonsumsi JENIS_MAKANAN.
+Konsumsi JENIS_MAKANAN ANJURAN untuk pasien dengan kadar KOMPONEN_LAB STATUS_LAB.
+JENIS_MAKANAN ANJURAN untuk kadar KOMPONEN_LAB pasien yang STATUS_LAB.
+
+KADAR KOMPONEN_LAB dapat terjadi karena RESIKO.
+KADAR KOMPONEN_LAB dapat mengindikasi adanya RESIKO.
+KADAR KOMPONEN_LAB memungkinkan adanya RESIKO.
+
+Kadar glukosa_darah_sewaktu berada di atas batas normal.
+Pasien memiliki kadar glukosa_darah_sewaktu di atas batas normal.
+Glukosa_darah_sewaktu pasien abnormal meningkat.
+Kadar glukosa_darah_sewaktu berada di bawah batas normal.
+Pasien memiliki kadar glukosa_darah_sewaktu di bawah batas normal.
+Glukosa_darah_sewaktu pasien abnormal menurun.
+
+Kadar glukosa_darah_puasa berada di atas batas normal.
+Pasien memiliki kadar glukosa_darah_puasa di atas batas normal.
+Glukosa_darah_puasa pasien abnormal meningkat.
+Kadar glukosa_darah_puasa berada di bawah batas normal.
+Pasien memiliki kadar glukosa_darah_puasa di bawah batas normal.
+Glukosa_darah_puasa pasien abnormal menurun.
+
+Kadar glukosa_darah_2_jam_pp berada di atas batas normal.
+Pasien memiliki kadar glukosa_darah_2_jam_pp di atas batas normal.
+Glukosa_darah_2_jam_pp pasien abnormal meningkat.
+Kadar glukosa_darah_2_jam_pp berada di bawah batas normal.
+Pasien memiliki kadar glukosa_darah_2_jam_pp di bawah batas normal.
+Glukosa_darah_2_jam_pp pasien abnormal menurun.
+
+Kadar hba1c berada di atas batas normal.
+Pasien memiliki kadar hba1c di atas batas normal.
+Hba1c pasien abnormal meningkat.
+Kadar hba1c berada di bawah batas normal.
+Pasien memiliki kadar hba1c di bawah batas normal.
+Hba1c pasien abnormal menurun.
+
+Kadar albumin berada di atas batas normal.
+Pasien memiliki kadar albumin di atas batas normal.
+Albumin pasien abnormal meningkat.
+Kadar albumin berada di bawah batas normal.
+Pasien memiliki kadar albumin di bawah batas normal.
+Albumin pasien abnormal menurun.
+
+Kadar sgot berada di atas batas normal.
+Pasien memiliki kadar sgot di atas batas normal.
+Sgot pasien abnormal meningkat.
+Kadar sgot berada di bawah batas normal.
+Pasien memiliki kadar sgot di bawah batas normal.
+Sgot pasien abnormal menurun.
+
+Kadar sgpt berada di atas batas normal.
+Pasien memiliki kadar sgpt di atas batas normal.
+Sgpt pasien abnormal meningkat.
+Kadar sgpt berada di bawah batas normal.
+Pasien memiliki kadar sgpt di bawah batas normal.
+Sgpt pasien abnormal menurun.
+
+Kadar alp berada di atas batas normal.
+Pasien memiliki kadar alp di atas batas normal.
+Alp pasien abnormal meningkat.
+Kadar alp berada di bawah batas normal.
+Pasien memiliki kadar alp di bawah batas normal.
+Alp pasien abnormal menurun.
+
+Kadar bilirubin berada di atas batas normal.
+Pasien memiliki kadar bilirubin di atas batas normal.
+Bilirubin pasien abnormal meningkat.
+Kadar bilirubin berada di bawah batas normal.
+Pasien memiliki kadar bilirubin di bawah batas normal.
+Bilirubin pasien abnormal menurun.
+
+Kadar ggt berada di atas batas normal.
+Pasien memiliki kadar ggt di atas batas normal.
+Ggt pasien abnormal meningkat.
+Kadar bilirubin berada di bawah batas normal.
+Pasien memiliki kadar ggt di bawah batas normal.
+Ggt pasien abnormal menurun.
+
+Kadar kolesterol_ldl berada di atas batas normal.
+Pasien memiliki kadar kolesterol_ldl di atas batas normal.
+Kolesterol_ldl pasien abnormal meningkat.
+Kadar Kolesterol_ldl berada di bawah batas normal.
+Pasien memiliki kadar kolesterol_ldl di bawah batas normal.
+Kolesterol_ldl pasien abnormal menurun.
+
+Kadar kolesterol_hdl berada di atas batas normal.
+Pasien memiliki kadar kolesterol_hdl di atas batas normal.
+Kolesterol_hdl pasien abnormal meningkat.
+Kadar kolesterol_hdl berada di bawah batas normal.
+Pasien memiliki kadar kolesterol_hdl di bawah batas normal.
+Kolesterol_hdl pasien abnormal menurun.
+
+Kadar kolesterol_total berada di atas batas normal.
+Pasien memiliki kadar kolesterol_total di atas batas normal.
+Kolesterol_total pasien abnormal meningkat.
+Kadar kolesterol_total berada di bawah batas normal.
+Pasien memiliki kadar kolesterol_total di bawah batas normal.
+Kolesterol_total pasien abnormal menurun.
+
+Kadar kreatinin berada di atas batas normal.
+Pasien memiliki kadar kreatinin di atas batas normal.
+Kreatinin pasien abnormal meningkat.
+Kadar kreatinin berada di bawah batas normal.
+Pasien memiliki kadar kreatinin di bawah batas normal.
+Kreatinin pasien abnormal menurun.
+
+Kadar ureum berada di atas batas normal.
+Pasien memiliki kadar ureum di atas batas normal.
+Ureum pasien abnormal meningkat.
+Kadar ureum berada di bawah batas normal.
+Pasien memiliki kadar ureum di bawah batas normal.
+Ureum pasien abnormal menurun.
+
+Kadar natrium berada di atas batas normal.
+Kadar natrium berada di bawah batas normal.
+Pasien memiliki kadar natrium di atas batas normal.
+Pasien memiliki kadar natrium di bawah batas normal.
+Natrium pasien abnormal meningkat.
+Natrium pasien abnormal menurun.
+
+Kadar asam_urat berada di atas batas normal.
+Pasien memiliki kadar asam_urat di atas batas normal.
+Asam_urat pasien abnormal meningkat.
+Kadar asam_urat berada di bawah batas normal.
+Pasien memiliki kadar asam_urat di bawah batas normal.
+Asam_urat pasien abnormal menurun.
+
+Kadar kalium berada di atas batas normal.
+Kadar kalium berada di bawah batas normal.
+Pasien memiliki kadar kalium di atas batas normal.
+Pasien memiliki kadar kalium di bawah batas normal.
+Kalium pasien abnormal meningkat.
+Kalium pasien abnormal menurun.
+
+Kadar klorida berada di atas batas normal.
+Kadar klorida berada di bawah batas normal.
+Pasien memiliki kadar klorida di atas batas normal.
+Pasien memiliki kadar klorida di bawah batas normal.
+Klorida pasien abnormal meningkat.
+Klorida pasien abnormal menurun.
+
+Kadar kalsium berada di atas batas normal.
+Kadar kalsium berada di bawah batas normal.
+Pasien memiliki kadar kalsium di atas batas normal.
+Pasien memiliki kadar kalsium di bawah batas normal.
+Kalsium pasien abnormal meningkat.
+Kalsium pasien abnormal menurun.

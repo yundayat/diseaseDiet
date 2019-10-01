@@ -1,0 +1,54 @@
+Pasien memiliki batasan konsumsi terhadap SIFAT_BAHAN_MAKANAN.
+Konsumsi SIFAT_BAHAN_MAKANAN secara berlebihan sebaiknya dihindari oleh pasien.
+Pasien dianjurkan untuk menghindari konsumsi SIFAT_BAHAN_MAKANAN secara berlebihan.
+Pasien harus membatasi konsumsi SIFAT_BAHAN_MAKANAN.
+Konsumsi SIFAT_BAHAN_MAKANAN harus dibatasi oleh pasien.
+Konsumsi SIFAT_BAHAN_MAKANAN tidak dianjurkan untuk pasien.
+
+Pasien ANJURAN untuk mengonsumsi GIZI_POKOK seperti BAHAN_MAKANAN_GIZI.
+Konsumsi GIZI_POKOK seperti BAHAN_MAKANAN_GIZI ANJURAN.
+Pasien ANJURAN untuk mengonsumsi BAHAN_MAKANAN_GIZI sebagai GIZI_POKOK.
+Konsumsi BAHAN_MAKANAN_GIZI sebagai GIZI_POKOK ANJURAN.
+
+Pasien dibatasi untuk mengonsumsi GIZI_POKOK_B seperti BAHAN_MAKANAN_GIZI_B.
+Konsumsi GIZI_POKOK_B seperti BAHAN_MAKANAN_GIZI_B dibatasi bagi pasien.
+Pasien dibatasi untuk mengonsumsi BAHAN_MAKANAN_GIZI_B sebagai GIZI_POKOK_B.
+Konsumsi BAHAN_MAKANAN_GIZI_B sebagai GIZI_POKOK_B dibatasi bagi pasien.
+
+Pasien dianjurkan untuk mengonsumsi GIZI_POKOK_D seperti BAHAN_MAKANAN_GIZI_D.
+Konsumsi GIZI_POKOK_D seperti BAHAN_MAKANAN_GIZI_D dianjurkan bagi pasien.
+Pasien dianjurkan untuk mengonsumsi BAHAN_MAKANAN_GIZI_D sebagai GIZI_POKOK_D.
+Konsumsi BAHAN_MAKANAN_GIZI_D sebagai GIZI_POKOK_D dianjurkan bagi pasien.
+
+Pasien dianjurkan untuk menghindari konsumsi SUMBER_DIHINDARI seperti MAKANAN_DIHINDARI.
+Konsumsi SUMBER_DIHINDARI seperti MAKANAN_DIHINDARI sebaiknya dihindari oleh pasien.
+Konsumsi MAKANAN_DIHINDARI sebagai SUMBER_DIHINDARI tidak dianjurkan.
+Pasien tidak dianjurkan untuk mengonsumsi MAKANAN_DIHINDARI sebagai SUMBER_DIHINDARI.
+
+Pasien dianjurkan untuk menghindari konsumsi LAIN_LAIN.
+Konsumsi LAIN_LAIN seharusnya dihindari oleh pasien.
+Pasien tidak dianjurkan mengonsumsi LAIN_LAIN.
+Konsumsi LAIN_LAIN tidak dianjurkan untuk pasien.
+Konsumsi LAIN_LAIN dihindari.
+
+Pasien dianjurkan untuk menghindari penggunaan BAHAN_MASAK.
+Penggunaan BAHAN_MASAK seharusnya dihindari oleh pasien.
+Pasien tidak dianjurkan menggunakan BAHAN_MASAK.
+Penggunaan BAHAN_MASAK tidak dianjurkan untuk pasien.
+Penggunaan BAHAN_MASAK dihindari.
+
+Pasien dapat mengonsumsi JENIS_MAKANAN sebagai ASUPAN_ZAT_GIZI dalam sehari.
+Pasien dapat mengonsumsi JENIS_MAKANAN yang merupakan ASUPAN_ZAT_GIZI dalam sehari.
+Pasien dapat diberikan konsumsi JENIS_MAKANAN sebagai ASUPAN_ZAT_GIZI dalam sehari.
+Pasien dapat diberikan konsumsi dari ASUPAN_ZAT_GIZI yang terdiri dari JENIS_MAKANAN dalam sehari.
+ASUPAN_ZAT_GIZI dalam sehari dapat berupa JENIS_MAKANAN untuk konsumsi pasien.
+
+Pasien dapat mengganti konsumsi gula dengan ALTERNATIF.
+Konsumsi gula dapat diganti dengan ALTERNATIF untuk pasien.
+Pasien dapat mengonsumsi ALTERNATIF sebagai pengganti gula.
+Konsumsi ALTERNATIF sebagai pengganti gula dapat dilakukan oleh pasien.
+
+Makanan dianjurkan untuk diolah dengan cara CARA_MASAK.
+Cara CARA_MASAK dianjurkan dalam pengolahan makanan.
+Pengolahan makanan dianjurkan dengan cara CARA_MASAK.
+Makanan dianjurkan untuk diolah dengan cara CARA_MEMASAK.
